@@ -2,6 +2,7 @@
 
 ## Name : Md. Ammaar Quadri | Intern Id: NIP/2024/06B0754
 
+![Logo](https://github.com/maq765/Next24tech-Internship-Tasks/blob/main/logo.jpg)
 
 ### 1. Design Portfolio Website
 
