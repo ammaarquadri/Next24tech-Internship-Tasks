@@ -48,6 +48,7 @@ The first task was to design a portfolio website aimed at showcasing my projects
 **Description:**
 The second task involved designing an e-commerce website based on my own concept. The aim was to create a unique and engaging online shopping platform that provides an exceptional user experience while focusing on aesthetics and functionality.
 
+![Logo](https://github.com/maq765/Next24tech-Internship-Tasks/blob/main/Task_2--Design%20E-commerce%20Website/website-demo-image/Screenshot1.png)
 **Steps:**
 
 1. **Project Initialization:**
