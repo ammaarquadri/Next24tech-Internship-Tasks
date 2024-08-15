@@ -12,6 +12,7 @@
 **Description:**
 The first task was to design a portfolio website aimed at showcasing my projects, skills, and achievements. The objective was to create a visually appealing, responsive, and user-friendly platform that could effectively represent my personal brand.
 
+![Logo](https://github.com/maq765/Next24tech-Internship-Tasks/blob/main/Task-1--Design%20Portfolio%20Website/images/project5.png)
 **Steps:**
 
 1. **Project Setup:**
