@@ -86,6 +86,8 @@ The second task involved designing an e-commerce website based on my own concept
 **Description:**
 The final task was to create the front-end design for an e-learning website. The goal was to design a platform that facilitates seamless navigation, user interaction, and accessibility to educational content, making the learning process enjoyable and effective.
 
+![Logo](https://github.com/maq765/Next24tech-Internship-Tasks/blob/main/Task_3--Design%20E-learning%20Website/preview.jpg)
+
 **Steps:**
 
 1. **Project Setup:**
